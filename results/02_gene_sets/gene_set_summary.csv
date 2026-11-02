@@ -1,0 +1,11 @@
+"Pathway","In_org.Rn.eg.db","In_expression_data","Total"
+"Cell_Cell",2668,1772,2679
+"Cell_ECM",1983,1402,1993
+"ECM_Receptor",87,64,87
+"Hedgehog",40,29,40
+"IGF",67,57,67
+"Mechanotransduction",171,147,171
+"Osteogenesis",573,462,577
+"PTH",56,49,56
+"TGF_BMP",71,55,71
+"Wnt",54,38,54

@@ -1,0 +1,4 @@
+"Comparison","Up","Down","Total","Criteria"
+"SPMS_vs_MS",145,189,334,"padj < 0.05 & |log2FC| > 1"
+"SPMS_vs_PMS",130,420,550,"padj < 0.05 & |log2FC| > 1"
+"PMS_vs_MS",148,25,173,"padj < 0.05 & |log2FC| > 1"
